@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/damaestro165/Time-Tracking-Dashboard)
+- Live Site URL: [Netlify](https://time-trackingdb.netlify.app/#)
 
 ## My process
 
@@ -48,5 +48,5 @@ I learnt how to use CSS grid and how to get data from data.json by asigning it t
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/dameastro)
+- Twitter - [@dameastro](https://www.twitter.com/dameastro)
 
