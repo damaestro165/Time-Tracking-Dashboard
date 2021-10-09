@@ -112,7 +112,7 @@ let data = [
   daily.addEventListener('click', dailyFunc);
   monthly.addEventListener('click', monthlyFunc);
   weekly.addEventListener('click', weeklyFunc);
- window.onload = dailyFunc();
+ window.onload = weeklyFunc();
   function dailyFunc(){
     daily.classList.add('active');
     monthly.classList.remove('active');
